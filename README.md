@@ -20,3 +20,6 @@ The TAKKE Employee Salary Calculator (TESC) is an application developed using Ad
 - **Project Type:** Academic Project
 - **Course:** Application Development
 - **Semester:** Fall 2025/2026
+  
+## License
+© 2026 Mohammad Aldeghemat. All rights reserved.
